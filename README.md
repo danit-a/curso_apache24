@@ -1,4 +1,4 @@
-# Curso: servidor web Apache 2.4 texto añadido en local
+# Curso: servidor web Apache 2.4 
 
 ## Unidades
 
